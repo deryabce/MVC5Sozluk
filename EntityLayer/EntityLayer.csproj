@@ -43,7 +43,6 @@
   <ItemGroup>
     <Compile Include="Concrete\Content.cs" />
     <Compile Include="Concrete\Writer.cs" />
-    <Compile Include="Deneme.cs" />
     <Compile Include="Heading.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
